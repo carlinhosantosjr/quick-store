@@ -65,7 +65,7 @@ export const ProductBag = styled('div', {
 })
 
 export const ImageProductBagContainer = styled('div', {
-  background: 'linear-gradient(180deg, #1ea483 0%, #7465d4 100%)',
+  background: 'linear-gradient(180deg, #f1e86aff 0%, #a37c34ff 100%)',
   maxWidth: 110,
   maxHeight: 100,
   display: 'flex',
@@ -99,7 +99,7 @@ export const RemoveButtonInfoProduct = styled('button', {
   transition: 'color 0.3s ease',
 
   '&:hover': {
-    color: '$green300',
+    color: '$gray300',
   },
 })
 
@@ -130,9 +130,9 @@ export const ProductBagContainerFooter = styled('footer', {
 export const FinishCheckoutButton = styled('button', {
   marginTop: '24px',
   gridColumn: 'span 2',
-  backgroundColor: '$green500',
+  backgroundColor: '$gold900',
   border: 'none',
-  color: '$gray100',
+  color: '$gray800',
   height: '60px',
   borderRadius: '8px',
   fontSize: '$md',
@@ -146,6 +146,6 @@ export const FinishCheckoutButton = styled('button', {
   },
 
   '&:not(:disabled):hover': {
-    backgroundColor: '$green300',
+    backgroundColor: '$gold500',
   },
 })

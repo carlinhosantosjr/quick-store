@@ -1,4 +1,4 @@
-import logoImg from '@/src/assets/logo.svg'
+import logoImg from '../assets/logo.png'
 import {
   BadgeBag,
   HeaderContainer,
@@ -23,7 +23,7 @@ export function Header() {
         </Link>
         <Dialog.Trigger asChild>
           <ShoppingBagButton disabled={shoppingCart.length === 0}>
-            <Handbag size={26} color="white" />
+            <Handbag size={26} color="black" />
             {shoppingCart.length !== 0
               ? <BadgeBag>{shoppingCart.length}</BadgeBag>
               : ''}

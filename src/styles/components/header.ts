@@ -13,7 +13,7 @@ export const HeaderContainer = styled('header', {
 
 export const ShoppingBagButton = styled('button', {
   position: 'relative',
-  backgroundColor: '$gray800',
+  background: 'linear-gradient(180deg, #ffd476ff 0%, #e79c0fff 100%)',
   height: '46px',
   width: '46px',
   border: 'none',
@@ -28,7 +28,7 @@ export const ShoppingBagButton = styled('button', {
   variants: {
     isFooter: {
       true: {
-        backgroundColor: '$green500',
+        backgroundColor: '$gold900',
         height: '54px',
         width: '54px',
       },
@@ -37,16 +37,16 @@ export const ShoppingBagButton = styled('button', {
 })
 
 export const BadgeBag = styled('span', {
+  color: 'black',
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
-  backgroundColor: '$green300',
+  backgroundColor: '$gold900',
   border: 'none',
   borderRadius: '9999px',
   width: '20px',
   height: '20px',
   position: 'absolute',
-  color: '$gray100',
   fontSize: '$sm',
   top: '-5px',
   right: '-5px',

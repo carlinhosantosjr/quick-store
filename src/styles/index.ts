@@ -18,9 +18,13 @@ export const {
       gray300: '#c4c4cc',
       gray100: '#e1e1e6',
 
-      green500: '#00875f',
-      green300: '#00b37e',
+      gold900: '#D4AF37',
+      gold500: '#FFDB51',
+      gold400: '#FFD700',
+      gold300: '#FFEFD5',
+
     },
+
     fontSizes: {
       sm: '0.875rem',
       md: '1.125rem',

@@ -14,7 +14,7 @@ export const ImageContainer = styled('div', {
   width: '100%',
   maxWidth: 576,
   height: 656,
-  background: 'linear-gradient(180deg, #1ea483 0%, #7465d4 100%)',
+  background: 'linear-gradient(180deg, #f1e86aff 0%, #573c0aff 100%)',
   borderRadius: 8,
   padding: '0.25rem',
 
@@ -52,9 +52,9 @@ export const ProductDetails = styled('div', {
 
   button: {
     marginTop: 'auto',
-    backgroundColor: '$green500',
+    background: 'linear-gradient(180deg, #f1e86aff 0%, #a37c34ff 100%)',
     border: 0,
-    color: '$white',
+    color: '$gray900',
     borderRadius: 8,
     padding: '1.25rem',
     cursor: 'pointer',
@@ -67,7 +67,7 @@ export const ProductDetails = styled('div', {
     },
 
     '&:not(:disabled):hover': {
-      backgroundColor: '$green300',
+      backgroundColor: '$gold500',
     },
   },
 })
