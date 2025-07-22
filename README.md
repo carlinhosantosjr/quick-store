@@ -44,16 +44,19 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-![image](https://github.com/user-attachments/assets/01f1a3a0-9e26-4c3f-bb31-7b0fbd428a2c)
+<img width="1350" height="900" alt="image1" src="https://github.com/user-attachments/assets/775c35a8-8e4c-420a-8db9-fec072d6ebc4" />
+
+
+
+---
+
+<img width="1350" height="900" alt="image2" src="https://github.com/user-attachments/assets/52eab9c6-880a-4bc1-8ba9-376e6057cd03" />
 
 
 ---
 
-![image](https://github.com/user-attachments/assets/545de072-b74d-4fcd-872a-7073da2fa265)
+<img width="1350" height="900" alt="image3" src="https://github.com/user-attachments/assets/52763cd4-87c7-4459-936b-c5876ff71c98" />
 
----
-
-![image](https://github.com/user-attachments/assets/1a82437c-9999-44f3-a567-ac4e808846d0)
 
 
 
