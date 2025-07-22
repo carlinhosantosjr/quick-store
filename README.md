@@ -19,10 +19,10 @@ Este projeto utiliza as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/carlinhosantosjr/04-ignite-shop-challenge
+git clone https://github.com/carlinhosantosjr/quick-store
 
 # Acesse a pasta do projeto
-cd 04-ignite-shop-challenge
+cd quick-store
 
 # Instale as dependências
 npm install # ou yarn install
